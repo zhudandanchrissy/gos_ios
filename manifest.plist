@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://images.goschain.cn/images/front/gos_IOS.ipa</string>
+					<string>http://gos-medias.goschainccap.com/upload/1565829695158_2106876157.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://images.goschain.cn/images/front/GOSICON57.png</string>
+					<string>http://gos-medias.goschainccap.com/upload/1565833129811_-1532360776.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://images.goschain.cn/images/front/GOSICON512.png</string>
+					<string>http://gos-medias.goschainccap.com/upload/1565833126445_171124110.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.GOS.GOSUN</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.5.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
